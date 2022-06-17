@@ -5,7 +5,7 @@
     "description": "I am a curious software engineer and like to learn new technologies and solve problems. Everytime I hear about a new technology, I get curious, I wanna learn what is this technology. After learning I like to apply my new skills to learn new problems.",
     "image": "profilepic.jpg",
     "bio": "I work as a full stack web developer at GagaMuller Technology, Islamabad. I use ASP.Net Core, Entity Framework and MYSQL and SQL for developing backend of applications and angular, React for frontend. In my free time, I learn new skills, technologies, read novels and watch movies. I am pretty determined if I decide to solve a problem I put my full concentration on solving that problem.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+
     "email": "rafaysalfi428@gmail.com",
     "phone": "+923165541993",
     "address": {
@@ -14,8 +14,8 @@
       "state": "Punjab",
       "zip": "48000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "Resume.pdf",
+    "resumedownload": "Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -135,46 +135,30 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "HULU Clone - NextJs Tailwind CSS",
+        "category": "Clone",
+        "image": "hulu.png",
+        "url": "https://hulu-next-js-tailwind-css.vercel.app/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Amazon Clone - React Js",
+        "category": "Website, Clone",
+        "image": "amazon.png",
+        "url": "https://clone-f97ef.web.app/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "LinkedIn Clone - React Js",
+        "category": "Website I built to learn React Js",
+        "image": "linkedin.png",
+        "url": "https://linkedin-clone-c98f0.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Don't ever let you disability define you. You are unique and you can do anything. Don't ever lose hope. I have seen a problem solver in you have what it takes to be a problem solver.",
+        "user": "Abdul Rehman"
       }
     ]
   }
