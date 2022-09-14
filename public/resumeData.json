@@ -2,7 +2,7 @@
   "main": {
     "name": "Abdul Rafay Salfi",
     "occupation": "Software Engineer",
-    "description": "I am a curious software engineer and like to learn new technologies and solve problems. Everytime I hear about a new technology, I get curious, I wanna learn what is this technology. After learning I like to apply my new skills to learn new problems.",
+    "description": "I am a software engineer and like to learn new technologies and solve problems. After learning I like to apply my new skills to learn new problems.",
     "image": "profilepic.jpg",
     "bio": "I work as a full stack web developer at GagaMuller Technology, Islamabad. I use ASP.Net Core, Entity Framework and MYSQL and SQL for developing backend of applications and angular, React for frontend. In my free time, I learn new skills, technologies, read novels and watch movies. I am pretty determined if I decide to solve a problem I put my full concentration on solving that problem.",
 
@@ -10,9 +10,9 @@
     "phone": "+923165541993",
     "address": {
       "street": "",
-      "city": "Rawalpindi",
-      "state": "Punjab",
-      "zip": "48000"
+      "city": "Rawalpindi, Pakistan",
+      "state": "",
+      "zip": ""
     },
     "website": "Resume.pdf",
     "resumedownload": "Resume.pdf",
